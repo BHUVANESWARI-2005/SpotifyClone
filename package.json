@@ -1,0 +1,23 @@
+{
+  "name": "SpotifyMusicApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "react-native": "0.77.0",
+    "react-native-gesture-handler": "^2.23.1",
+    "react-native-reanimated": "^3.16.7",
+    "react-native-safe-area-context": "^5.2.0",
+    "react-native-screens": "^4.6.0",
+    "react-native-track-player": "^4.1.1",
+    "react-native-vector-icons": "^10.2.0",
+    "react-navigation": "^5.0.0"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^15.1.3"
+  }
+}
